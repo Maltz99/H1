@@ -1,0 +1,25 @@
+CI (Continuous Integration) versionsstyring bruges til at gemme kodeændringer som revisions eller commits i repos. Det gør at man nemt kan sammenligne revisions og hoppe tilbage til tidligere versioner hvis nødvendigt.
+
+GitHub har højere tilgængelighed og er mere fokuseret på infrastrukturens ydeevne, mens GitLab er mere fokuseret på at tilbyde et funktionsbaseret system med en centraliseret, integreret platform til webudviklere.
+
+(Fra ChatGPT)
+Fordele ved GitHub:
+
+Stort samfund af udviklere og mange open-source projekter.
+Integration med mange eksterne værktøjer og tjenester.
+Enkel og brugervenlig grænseflade.
+Let at komme i gang med.
+Ulemper ved GitHub:
+
+Grundlæggende CI/CD-funktionalitet sammenlignet med GitLab.
+Nogle mere avancerede CI/CD-funktioner kan kræve tredjepartsintegrationer.
+Fordele ved GitLab:
+
+Alt-i-ét løsning med integreret CI/CD og projektstyring.
+Stærkere kontrol og fleksibilitet over CI/CD-pipelines.
+Mulighed for self-hosting, hvis du har brug for mere kontrol over dine data.
+Stor samling af indbyggede værktøjer og funktioner.
+Ulemper ved GitLab:
+
+Grænsefladen kan nogle gange være mindre brugervenlig i forhold til GitHub.
+Mindre udbredt samfund sammenlignet med GitHub (selvom det stadig er stort).
